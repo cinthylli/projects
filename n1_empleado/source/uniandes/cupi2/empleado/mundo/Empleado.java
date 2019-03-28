@@ -34,6 +34,11 @@ public class Empleado
     /**
      * Cargo que ocupa en la empresa el empleado
      */
+    private String area;
+    
+    /**
+     * Area a la que pertenece en la empresa el empleado
+     */
     private String cargo;
     
     /**
